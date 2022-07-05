@@ -1,0 +1,13 @@
+Private chat(Go + React + MongoDB)
+	https://www.codershood.info/2020/06/23/real-time-private-chatting-app-using-golang-react-and-mongodb-part-1/
+
+Private chat(Go + Javascript):
+	https://morioh.com/p/25aa20666c60
+
+Public chat Or Chat room(Go + Redis + Channel):
+	https://dzone.com/articles/building-a-concurrent-chat-app-with-go-and-websock
+
+Simple chat (Go + WebSocket)
+	https://gabrieltanner.org/blog/realtime-chat-go-websockets
+
+keyword:you should better to find out <socket golang chat> and try 4 examples of github.
